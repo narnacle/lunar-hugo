@@ -126,8 +126,6 @@ This fork enhances Moonwalk with:
 
 **Contributions welcome!** 🌟  
 
-*(Replace placeholders with your screenshots and demo link once ready!)*  
-
 ---
 
 ### Changelog  

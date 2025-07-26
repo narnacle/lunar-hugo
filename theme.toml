@@ -1,0 +1,20 @@
+name = "lunar"
+license = "MIT"
+licenseLink = "https://github.com/narnacle/lunar-hugo/blob/main/LICENSE"
+description = "A fork of moonwalk."
+
+homepage = "https://github.com/narnacle/lunar-hugo"
+
+demosite = "https://narnacle.github.io/lunar-hugo"
+
+tags = ["blog", "dark", "light", "portfolio"]
+features = ["blog", "dark", "light", "portfolio"]
+
+[author]
+	name = "Narnacle"
+	homepage = "https://narnacle.com"
+
+[original]
+	author = "ArkhamCookie"
+	homepage = "https://github.com/ArkhamCookie"
+	repo = "https://github.com/ArkhamCookie/moonwalk-hugo"

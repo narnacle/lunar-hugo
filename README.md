@@ -6,7 +6,7 @@
 
 **LunaR** is a refined fork of [Moonwalk-Hugo](https://github.com/ArkhamCookie/moonwalk-hugo), preserving its minimalist design while adding powerful customization options—especially for portfolios and dynamic content.  
 
-➡️ **Live Demo**: *[Coming Soon!]*  
+➡️ **Live Demo**: *[https://narnacle.github.io/lunar-hugo/](https://narnacle.github.io/lunar-hugo/)*  
 
 ---
 
@@ -120,7 +120,7 @@ This fork enhances Moonwalk with:
 ---
 
 ## **🚧 Roadmap**  
-- [ ] Add demo site  
+- [x] Add demo site  
 - [ ] Support Hugo Modules  
 - [ ] Expand portfolio layouts (grid, masonry)  
 
